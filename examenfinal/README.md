@@ -49,3 +49,6 @@ Este proyecto es un dashboard para analizar productos de Amazon usando Flet, MyS
 - Asegúrate de que el CSV tenga las columnas correctas.
 - Configura la conexión a MySQL en `DB_CONFIG` en main.py.
 - Los gráficos requieren datos válidos para generarse.
+## Defensa rápida
+
+Si tienes poco tiempo para preparar la exposición del examen, revisa `EXAMEN_10MIN.md` para un guion breve de demostración, checklist y respuestas rápidas.
